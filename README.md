@@ -1,4 +1,4 @@
-```markdown
+
 # Sudoku Solver with Forward Checking CSP
 
 ## Overview
